@@ -1,0 +1,23 @@
+.block {
+  margin: 10px 0;
+  padding: 20px;
+  border: 5px solid white;
+  color: white;
+}
+.title {
+  position: relative;
+  padding-left: 30px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.title::before {
+  content: '';
+  width: 10px;
+  height: 100%;
+  background: white;
+  position: absolute;
+  left: 0;
+}
