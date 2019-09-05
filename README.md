@@ -4,6 +4,8 @@
 
 ## Command
 
+* Remember to set your own `appid` in `project.config.json`
+
 **Install**
 
 ```bash
