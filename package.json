@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Practice for Remax app",
   "main": "index.js",
-  "keywords": [],
+  "keywords": ["remax", "wechat", "typescript"],
   "author": "yrq110 <yrq1025@gmail.com>",
   "license": "MIT",
   "scripts": {
